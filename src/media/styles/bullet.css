@@ -1,0 +1,26 @@
+.user{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background-color: #3d4751;
+    color: white;
+    font-size: 1rem;
+    border-radius: 10px;
+    width: fit-content;
+}
+.bot{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    gap: 10px;
+    background-color:#04192d ;
+    color: white;
+    font-size: 1rem;
+    width: fit-content;
+    border-radius: 10px;
+}
+.bullet{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
